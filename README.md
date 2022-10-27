@@ -1,0 +1,1 @@
+Css konusunun ilk projesidir temel css kavramları kullanılarak oluşturulmuştur
